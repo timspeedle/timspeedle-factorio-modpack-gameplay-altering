@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2024-09-19
+  Features:
+    - migrated to https://github.com/fgardt/factorio-mod-template for deployments
+  Bugfixes:
+    - Update Bob's mod references to >= 1.2.0 to fix errors when installing
+---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 2023-12-27
   Mods added:
